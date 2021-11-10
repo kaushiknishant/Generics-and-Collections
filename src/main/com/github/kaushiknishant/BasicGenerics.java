@@ -65,7 +65,7 @@ class Store<T> {
     }
 }
 
-public class App {
+public class BasicGenerics {
     public static void main(String[] args) {
         Store<Integer> store = new Store<>(); // by providing data type we can use this program for different data type
         store.setNumOfItems(45);
