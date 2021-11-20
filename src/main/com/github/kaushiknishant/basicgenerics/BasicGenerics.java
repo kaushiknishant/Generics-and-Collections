@@ -1,4 +1,4 @@
-package main.com.github.kaushiknishant;
+package main.com.github.kaushiknishant.basicgenerics;
 
 /**
  * Author - Nishant Sharma

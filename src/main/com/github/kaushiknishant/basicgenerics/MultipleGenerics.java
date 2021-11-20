@@ -1,4 +1,4 @@
-package main.com.github.kaushiknishant;
+package main.com.github.kaushiknishant.basicgenerics;
 
 // Two generics are used here
 class Table<K,V>{

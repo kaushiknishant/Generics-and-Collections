@@ -1,4 +1,4 @@
-package main.com.github.kaushiknishant;
+package main.com.github.kaushiknishant.boundedtype;
 
 /**
  * Whenever you want to restrict the type parameter to subtypes of a particular class you can use the bounded type parameter.
